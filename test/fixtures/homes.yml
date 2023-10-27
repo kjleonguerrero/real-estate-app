@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  year_built: 1
+  square_feet: 9.99
+  bedrooms: 1
+  bathrooms: 9.99
+  floors: 1
+  availability: false
+  address: MyString
+  price: 9.99
+
+two:
+  description: MyString
+  year_built: 1
+  square_feet: 9.99
+  bedrooms: 1
+  bathrooms: 9.99
+  floors: 1
+  availability: false
+  address: MyString
+  price: 9.99
